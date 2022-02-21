@@ -5,4 +5,4 @@
 
 ### [CODE](https://github.com/MR-ANKEY/OOP/blob/794164e767d228d5c02a9bf3793cda82df0d22a1/lab1/lab_experiment1.cpp)
 
-### [OUTPUT](https://github.com/MR-ANKEY/OOP/blob/96c2dbbe26f7f73b12149b7787f998cb53af31b6/lab1/Screenshot%20(290).png)
+### [OUTPUT](https://github.com/MR-ANKEY/OOP/blob/b4bba6e44173b1cd001a9a549a79ba327b057d07/lab1/OOP%20Lab%20Experiment%201.pdf)
